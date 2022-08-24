@@ -18,21 +18,22 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 - Games that run natively on linux won't have the <ins>**P**</ins>roton tag. (Though all open source games I found so far run natively on linux)
 - Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check it's compatibility.
 # Glossary
-* [Arcade](arcade)
-* [FPS](fps)
-* [MMO](mmo)
-* [Puzzle](puzzle)
-* [Racing](racing)
-* [RPG](rpg)
-* [Sandbox](sandbox)
-* [Side scroller](side-scroller)
-* [Simulation](simulation)
-* [Strategy](strategy)
+* [Arcade](#arcade)
+* [FPS](#fps)
+* [MMO](#mmo)
+* [Puzzle](#puzzle)
+* [Racing](#racing)
+* [RPG](#rpg)
+* [Sandbox](#sandbox)
+* [Side scroller](#side-scroller)
+* [Simulation](#simulation)
+* [Strategy](#strategy)
 
 
 # Arcade
 * [Destination SOL](http://destinationsol.org/about) \[***ALMW***\] - Pilot your ship in the seamless open world made of space, planets, and more. Find new ships and equipment, find allies and beat all the enemies in this open source space shooter!
 
+# FPS
 
 # MMO
 * [Manaplus](http://manaplus.org/) \[***ACLMW***\] - ManaPlus is a free OpenSource 2D MMORPG client, supports hercules, tmwAthena, evol.
