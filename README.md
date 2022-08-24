@@ -36,8 +36,11 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 # FPS
 
 # MMO
+* [Daimonin](https://www.daimonin.org/) \[***LW***\] - Daimonin is an open source project and a game engine.
 * [Manaplus](http://manaplus.org/) \[***ACLMW***\] - ManaPlus is a free OpenSource 2D MMORPG client, supports hercules, tmwAthena, evol.
+* [PlaneShift Legacy](https://www.planeshift.it/)\[***lMW***\] - PlaneShift Legacy is Open Source for the client and server code, this version is still playable but devs are no longer expanding on it.
 * [Ryzom](https://ryzom.com/) \[***LMW***\] - Ryzom is one of only a few commercial-grade MMORPGs that are fully open source: client, server, tools, and media.
+* [Veloren](veloren.net) \[***LMW***\] - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 
 # Puzzle
 * [Enigma](https://www.nongnu.org/enigma/) \[***LMW***\] - Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga
@@ -52,6 +55,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 # RPG
 * [POWDER](http://www.zincland.com/powder/) \[***LMW \****\]- A Roguelike designed for the Gameboy Advance and Nintendo DS.
+* [/tg/station 13](https://tgstation13.org/) \[***LW***\] - Space Station 13 is a two dimensional, multiplayer, role playing game developed on BYOND.
 
 # Sandbox
 
