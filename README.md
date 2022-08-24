@@ -15,7 +15,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 |**\***	|	Has many other ports		|
 
 ### Notes
-- Games that have run natively on linux won't have the <ins>**P**</ins>roton tag.
+- Games that have run natively on linux won't have the <ins>**P**</ins>roton tag. (Though all linux games I found so far run natively on linux)
 - Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check it's compatibility.
 # Glossary
 * [Arcade](arcade)
