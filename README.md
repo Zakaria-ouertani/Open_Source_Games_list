@@ -11,7 +11,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 |**L**	|	<ins>**L**</ins>inux		|
 |**M**	|	<ins>**M**</ins>ac			|
 |**P**	|	<ins>**P**</ins>roton		|
-|**S**	|	<ins>**N**</ins>intendo		|
+|**N**	|	<ins>**N**</ins>intendo		|
 |**W**	|	<ins>**W**</ins>indows		|
 |**\***	|	Has many other ports		|
 |**X**	|	Not fully open source		|
