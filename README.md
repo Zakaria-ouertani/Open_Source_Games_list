@@ -26,11 +26,11 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [FPS](#fps)
 * [Horror](#horror)
 * [MMO](#mmo)
+* [Platformer](#platformer)
 * [Puzzle](#puzzle)
 * [Racing](#racing)
 * [RPG](#rpg)
 * [Sandbox](#sandbox)
-* [Platfromer](#side-scroller)
 * [Simulation](#simulation)
 * [Strategy](#strategy)
 
