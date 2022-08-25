@@ -6,7 +6,6 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 |-------|	----------------------- 	|
 |**A**	|	<ins>**A**</ins>ndroid		|
 |**B**	|	<ins>**B**</ins>rowser		|
-|**C**	|	<ins>**C**</ins>hrome OS	|
 |**IRL**|	<ins>**Real Life**</ins>	|
 |**H**	|	<ins>**H**</ins>aiku		|
 |**L**	|	<ins>**L**</ins>inux		|
@@ -62,7 +61,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 # MMO
 * [Daimonin](https://www.daimonin.org/) \[***LW***\] - Daimonin is an open source project and a game engine.
-* [Manaplus](http://manaplus.org/) \[***ACLMW***\] - ManaPlus is a free OpenSource 2D MMORPG client, supports hercules, tmwAthena, evol.
+* [Manaplus](http://manaplus.org/) \[***ALMW***\] - ManaPlus is a free OpenSource 2D MMORPG client, supports hercules, tmwAthena, evol.
 * [PlaneShift Legacy](https://www.planeshift.it/)\[***LMW X***\] - PlaneShift Legacy is Open Source for the client and server code, this version is still playable but devs are no longer expanding on it.
 * [Ryzom](https://ryzom.com/) \[***LMW***\] - Ryzom is one of only a few commercial-grade MMORPGs that are fully open source: client, server, tools, and media.
 * [Veloren](veloren.net) \[***LMW***\] - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
