@@ -30,7 +30,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Racing](#racing)
 * [RPG](#rpg)
 * [Sandbox](#sandbox)
-* [Side scroller](#side-scroller)
+* [Platfromer](#side-scroller)
 * [Simulation](#simulation)
 * [Strategy](#strategy)
 
@@ -66,11 +66,18 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Ryzom](https://ryzom.com/) \[***LMW***\] - Ryzom is one of only a few commercial-grade MMORPGs that are fully open source: client, server, tools, and media.
 * [Veloren](veloren.net) \[***LMW***\] - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 
+# Platformer
+* [runfoxrun](https://code.google.com/archive/p/runfoxrun/) \[***A***\] - An attempt to make a complete game for Android based devices within 14 days.
+* [Super Bombinhas](https://github.com/victords/super-bombinhas) \[***LW***\] - A 2D platformer written in Ruby.
+
 # Puzzle
 * [aaaaxy](https://divverent.github.io/aaaaxy/) \[***ALMW***\] - AAAAXY is a nonlinear 2D puzzle platformer taking place in impossible spaces.
+* [ConnectMan](https://github.com/victords/connecman) \[***LW***\] - A puzzle game about connecting pieces with straight lines.
 * [Enigma](https://www.nongnu.org/enigma/) \[***LMW***\] - Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga.
 * [Pingus](https://pingus.seul.org/) \[***AHLMW \****\] - Pingus is a free Lemmings<sup>tm</sup>-like puzzle game covered under the GNU GPL.
 * [Pipeanic](http://www.users.waitrose.com/~thunor/pipepanic/) \[***L \****\] - Pipepanic is a pipe connecting game using libSDL. Connect as many different shaped pipes together as possible within the time given. Supports a lot of obscure platforms.
+* [Spheres](https://github.com/victords/spheres) \[***LW***\] - A simple match-3 game.
+* [SokoAdventure](https://github.com/victords/sokoadventure) \[***LW***\] - A 2D puzzle game inspired by Sokoban.
 
 # Racing 
 * [Armagetron ADVANCED](http://www.armagetronad.org/) \[***LMW***\] - "A Tron clone in 3D."
@@ -95,9 +102,6 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 Sauron-style Lord of Darkness with the goal of conquering the world.
 * [The Battle for Wesnoth](https://www.wesnoth.org/)\[***ALMW***\] - The Battle for Wesnoth is a free and open-source turn-based strategy video game with a high fantasy setting.
 * [TripleA](https://triplea-game.org/)\[***LMW***\] - The World's Foremost Open Source Grand Strategy Game.
-
-# Side scroller
-* [runfoxrun](https://code.google.com/archive/p/runfoxrun/) \[***A***\] - An attempt to make a complete game for Android based devices within 14 days.
 
 # Simulation
 * [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/) \[***ALW***\] - EmptyEpsilon places you in the roles of a spaceship's bridge officers, like those seen in Star Trek. While you can play EmptyEpsilon alone or with friends, the best experience involves 6 players working together on each ship.
