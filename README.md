@@ -72,7 +72,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 # Puzzle
 * [aaaaxy](https://divverent.github.io/aaaaxy/) \[***ALMW***\] - AAAAXY is a nonlinear 2D puzzle platformer taking place in impossible spaces.
-* [ConnectMan](https://github.com/victords/connecman) \[***LW***\] - A puzzle game about connecting pieces with straight lines.
+* [ConnecMan](https://github.com/victords/connecman) \[***LW***\] - A puzzle game about connecting pieces with straight lines.
 * [Enigma](https://www.nongnu.org/enigma/) \[***LMW***\] - Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga.
 * [Pingus](https://pingus.seul.org/) \[***AHLMW \****\] - Pingus is a free Lemmings<sup>tm</sup>-like puzzle game covered under the GNU GPL.
 * [Pipeanic](http://www.users.waitrose.com/~thunor/pipepanic/) \[***L \****\] - Pipepanic is a pipe connecting game using libSDL. Connect as many different shaped pipes together as possible within the time given. Supports a lot of obscure platforms.
