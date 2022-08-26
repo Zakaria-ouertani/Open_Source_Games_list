@@ -11,6 +11,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 |**L**	|	<ins>**L**</ins>inux		|
 |**M**	|	<ins>**M**</ins>ac			|
 |**P**	|	<ins>**P**</ins>roton		|
+|**S**	|	P<ins>**S**</ins>			|
 |**N**	|	<ins>**N**</ins>intendo		|
 |**W**	|	<ins>**W**</ins>indows		|
 |**\***	|	Has many other ports		|
@@ -19,13 +20,14 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 ### Notes
 - Games that run natively on linux won't have the <ins>**P**</ins>roton tag. (Though all open source games I found so far run natively on linux)
 - Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check it's compatibility.
+
 # Glossary
 * [Arcade](#arcade)
 * [Card](#card)
-* [Rythm](#rythm)
 * [FPS](#fps)
 * [Horror](#horror)
 * [MMO](#mmo)
+* [Music](#music)
 * [Platformer](#platformer)
 * [Puzzle](#puzzle)
 * [Racing](#racing)
@@ -37,10 +39,15 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 # Arcade
 * [Bastet](https://github.com/fph/bastet) \[***?***\] - Evil falling block game.
+* [Block Attack](https://blockattack.net/) - \[***LW***\]A Tetris Attack Clone under the GPL.
 * [Destination SOL](http://destinationsol.org/about) \[***ALMW***\] - Pilot your ship in the seamless open world made of space, planets, and more. Find new ships and equipment, find allies and beat all the enemies in this open source space shooter!
 * [Dodge](https://github.com/dozingcat/dodge-android) - \[***A***\] - Guide a ball to safety avoiding swarms of enemies
 * [fooBillard](http://foobillard.sourceforge.net/) \[***ALW***\] -  A free (libre; licensed under GPL2) OpenGL billiard game for Linux by Florian Berger.
+* [Frozen Bubble](http://www.frozen-bubble.org/) \[***ALMW***\] - Colorful 3D rendered penguin animations, 100 levels of 1p game, hours and hours of 2p game, nights and nights of 2p/3p/4p/5p game over LAN or Internet, a level-editor, 3 professional quality digital soundtracks, 15 stereo sound effects, 8 unique graphical transition effects, 8 unique logo eye-candies.
+* [krassesSpiel](https://github.com/Gh05t-1337/krassesSpiel) \|***A***\] - A little Game where you shoot bullets at squares.
 * [Leblebi Games' Tetris](https://github.com/yesmancan/Tetris) \[***A***\] - Unity with C# 3D Tetris Game Development.
+* [Simple Brick Games](https://github.com/TobiasBielefeld/Simple-Brick-Games) \[***A***\] - Imitates the "9999 in 1" handhelds from the past.
+* [Super Retro Mega Wars](https://github.com/retrowars/retrowars) \[***A***\] - Play retro games against each other in any combination in this open source Android multiplayer game.
 * [VGA Golf](https://fallahn.itch.io/vga-golf) \[***LMW***\] - VGA Golf is a local or networked multiplayer golfing sim, modeled on 90s era console and DOS games (hence the term VGA: Video Graphics Array).
 
 # Card
@@ -67,6 +74,12 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Ryzom](https://ryzom.com/) \[***LMW***\] - Ryzom is one of only a few commercial-grade MMORPGs that are fully open source: client, server, tools, and media.
 * [Veloren](veloren.net) \[***LMW***\] - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 
+# Music
+* [StepMania](https://www.stepmania.com/) \[***LMW***\] - StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controller.
+* [Performous](https://github.com/performous/performous) \[***LMW***\] - An open-source music and rhythm game.
+* [Frets on Fire](http://fretsonfire.sourceforge.net/) \[***LMW***\] - Frets on Fire is a game of musical skill and fast fingers. The aim of the game is to play guitar with the keyboard as accurately as possible.
+* [Frets on Fire X](https://github.com/fofix/fofix) \[***LMW***\] - A fork of Frets on Fire with many added features and capabilities.
+
 # Platformer
 * [runfoxrun](https://code.google.com/archive/p/runfoxrun/) \[***A***\] - An attempt to make a complete game for Android based devices within 14 days.
 * [Super Bombinhas](https://github.com/victords/super-bombinhas) \[***LW***\] - A 2D platformer written in Ruby.
@@ -91,20 +104,20 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [BrogueCE](https://github.com/tmewett/BrogueCE) - \[***ALMW***\]
 * [POWDER](http://www.zincland.com/powder/) \[***LMW \****\]- A Roguelike designed for the Gameboy Advance and Nintendo DS.
 * [/tg/station 13](https://tgstation13.org/) \[***LW***\] - Space Station 13 is a two dimensional, multiplayer, role playing game developed on BYOND.
-
-# Rythm
-* [StepMania](https://www.stepmania.com/) \[***LMW***\] - StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controller.
-* [Performous](https://github.com/performous/performous) \[***LMW***\] - An open-source music and rhythm game.
-
+* 
 # Sandbox
 * [Cataclysm:Dark Days Ahead](https://cataclysmdda.org) \[***ALMW***\] - Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world.
 
 # Strategy
 * [AnutoTD](https://github.com/mjaun/android-anuto) \[***A***\] - Another ugly tower defense for Android
+* [Augustus](https://github.com/Keriew/augustus) \[***ALMNSW X***\] - Julius Fork with many enhancements.
 * [Malefactor](https://adeptus7.itch.io/dark-reign) \[***B***\] - Malefacotr is a strategy text game in which the player takes on the role of a
 Sauron-style Lord of Darkness with the goal of conquering the world.
+* [Mindustry](https://mindustrygame.github.io/) \[***ALMW***\] - A sandbox tower-defense game.
+* [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - \[***ABLMW***\]
 * [The Battle for Wesnoth](https://www.wesnoth.org/)\[***ALMW***\] - The Battle for Wesnoth is a free and open-source turn-based strategy video game with a high fantasy setting.
 * [TripleA](https://triplea-game.org/)\[***LMW***\] - The World's Foremost Open Source Grand Strategy Game.
+* [Julius](https://github.com/bvschaik/julius/) \[***ALMNSW X***\] - An open source re-implementation of Caesar III. Engine Fully OS but uses the official Caesar III Data.
 
 # Simulation
 * [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/) \[***ALW***\] - EmptyEpsilon places you in the roles of a spaceship's bridge officers, like those seen in Star Trek. While you can play EmptyEpsilon alone or with friends, the best experience involves 6 players working together on each ship.
