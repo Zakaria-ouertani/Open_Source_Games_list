@@ -38,6 +38,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 # Arcade
 * [Bastet](https://github.com/fph/bastet) \[***?***\] - Evil falling block game.
 * [Destination SOL](http://destinationsol.org/about) \[***ALMW***\] - Pilot your ship in the seamless open world made of space, planets, and more. Find new ships and equipment, find allies and beat all the enemies in this open source space shooter!
+* [Dodge](https://github.com/dozingcat/dodge-android) - \[***A***\] - Guide a ball to safety avoiding swarms of enemies
 * [fooBillard](http://foobillard.sourceforge.net/) \[***ALW***\] -  A free (libre; licensed under GPL2) OpenGL billiard game for Linux by Florian Berger.
 * [Leblebi Games' Tetris](https://github.com/yesmancan/Tetris) \[***A***\] - Unity with C# 3D Tetris Game Development.
 * [VGA Golf](https://fallahn.itch.io/vga-golf) \[***LMW***\] - VGA Golf is a local or networked multiplayer golfing sim, modeled on 90s era console and DOS games (hence the term VGA: Video Graphics Array).
@@ -87,6 +88,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Tux Rider](https://drodin.com/tuxrider/) \[***A***\] - A port of well known ‘Tux Racer’ 3D game for Android.
 
 # RPG
+* [BrogueCE](https://github.com/tmewett/BrogueCE) - \[***ALMW***\]
 * [POWDER](http://www.zincland.com/powder/) \[***LMW \****\]- A Roguelike designed for the Gameboy Advance and Nintendo DS.
 * [/tg/station 13](https://tgstation13.org/) \[***LW***\] - Space Station 13 is a two dimensional, multiplayer, role playing game developed on BYOND.
 
@@ -98,6 +100,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Cataclysm:Dark Days Ahead](https://cataclysmdda.org) \[***ALMW***\] - Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world.
 
 # Strategy
+* [AnutoTD](https://github.com/mjaun/android-anuto) \[***A***\] - Another ugly tower defense for Android
 * [Malefactor](https://adeptus7.itch.io/dark-reign) \[***B***\] - Malefacotr is a strategy text game in which the player takes on the role of a
 Sauron-style Lord of Darkness with the goal of conquering the world.
 * [The Battle for Wesnoth](https://www.wesnoth.org/)\[***ALMW***\] - The Battle for Wesnoth is a free and open-source turn-based strategy video game with a high fantasy setting.
