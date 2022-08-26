@@ -61,7 +61,6 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [DOOMRetro](https://github.com/bradharding/doomretro) \[***W***\] - The classic, refined DOOM source port. For Windows PC.
 * [Red Eclipse](https://www.redeclipse.net/) \[***LMW***\] - Free and Open Source game, built on Cube Engine 2 using SDL and OpenGL which allows it to be ported to many platforms.
 * [Tesseract](http://tesseract.gg/) \[***LMW***\] - Tesseract is a first-person shooter game focused on instagib deathmatch and capture-the-flag gameplay as well as cooperative in-game map editing.
-* [Urban Terror](https://www.urbanterror.info/) \[***LMW X***\] - Urban Terror™ is a free multiplayer first person shooter developed by FrozenSand, that will run on any Quake III Arena compatible engine. Only engine is open source.
 
 # Horror
 * [Penumbra Overture](https://github.com/FrictionalGames/PenumbraOverture) \[***LMW***\]- Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
