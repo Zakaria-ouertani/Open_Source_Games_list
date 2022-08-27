@@ -82,6 +82,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 # Platformer
 * [runfoxrun](https://code.google.com/archive/p/runfoxrun/) \[***A***\] - An attempt to make a complete game for Android based devices within 14 days.
 * [Super Bombinhas](https://github.com/victords/super-bombinhas) \[***LW***\] - A 2D platformer written in Ruby.
+* [Tiny Crate](https://github.com/HarmonyHoney/tiny_crate) \[***LMW***\] - Tiny Crate is a cute little precision platformer with puzzle elements!.
 
 # Puzzle
 * [aaaaxy](https://divverent.github.io/aaaaxy/) \[***ALMW***\] - AAAAXY is a nonlinear 2D puzzle platformer taking place in impossible spaces.
