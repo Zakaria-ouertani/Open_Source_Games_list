@@ -22,10 +22,12 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 - Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check it's compatibility.
 
 # Glossary
+* [Action](#action)
 * [Arcade](#arcade)
 * [Card](#card)
 * [FPS](#fps)
 * [Horror](#horror)
+* [Misc](#misc)
 * [MMO](#mmo)
 * [Music](#music)
 * [Platformer](#platformer)
@@ -34,12 +36,17 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [RPG](#rpg)
 * [Sandbox](#sandbox)
 * [Simulation](#simulation)
+* [Sport](#sport)
 * [Strategy](#strategy)
 
+# Action
+* [Catacomb II](https://github.com/CatacombGames/TheCatacomb)
+* [CatacombSDL](https://github.com/Blzut3/CatacombSDL) \[***LMW***\] - SDL 2 source port for Catacomb II.
 
 # Arcade
 * [Bastet](https://github.com/fph/bastet) \[***?***\] - Evil falling block game.
 * [Block Attack](https://blockattack.net/) - \[***LW***\]A Tetris Attack Clone under the GPL.
+* [Boing](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/boing-master) \[***LMW***\] - Pong game from from the book Code The Classics.
 * [Destination SOL](http://destinationsol.org/about) \[***ALMW***\] - Pilot your ship in the seamless open world made of space, planets, and more. Find new ships and equipment, find allies and beat all the enemies in this open source space shooter!
 * [Dodge](https://github.com/dozingcat/dodge-android) - \[***A***\] - Guide a ball to safety avoiding swarms of enemies
 * [fooBillard](http://foobillard.sourceforge.net/) \[***ALW***\] -  A free (libre; licensed under GPL2) OpenGL billiard game for Linux by Florian Berger.
@@ -60,11 +67,16 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Cube 2: Sauerbraten](http://sauerbraten.org/) \[***LMW***\] - Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.
 * [DOOMRetro](https://github.com/bradharding/doomretro) \[***W***\] - The classic, refined DOOM source port. For Windows PC.
 * [Red Eclipse](https://www.redeclipse.net/) \[***LMW***\] - Free and Open Source game, built on Cube Engine 2 using SDL and OpenGL which allows it to be ported to many platforms.
+* [Rust cycles](https://github.com/rustcycles/rustcycles) - \[***LMW***\] - RustCycles is a third person shooter that's about movement, not aim. You have to be smart and think fast.
+* [Rusty shooter](https://github.com/mrDIMAS/rusty-shooter) \[***LMW***\] - 3d shooter written in Rust using rg3d.
+* [Station Latepus](https://github.com/mrDIMAS/StationIapetus) \[***LMW***\] - 3rd person shooter in the very early development phase.
 * [Tesseract](http://tesseract.gg/) \[***LMW***\] - Tesseract is a first-person shooter game focused on instagib deathmatch and capture-the-flag gameplay as well as cooperative in-game map editing.
 
 # Horror
-* [Penumbra Overture](https://github.com/FrictionalGames/PenumbraOverture) \[***LMW***\]- Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
+* [Penumbra Overture](https://github.com/FrictionalGames/PenumbraOverture) \[***LMW***\] - Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
 
+# Misc
+* [Rust game ports](https://github.com/rust-gamedev/rust-game-ports) - Official host of games ported using Rust game libraries.
 
 # MMO
 * [Daimonin](https://www.daimonin.org/) \[***LW***\] - Daimonin is an open source project and a game engine.
@@ -81,12 +93,15 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Frets on Fire X](https://github.com/fofix/fofix) \[***LMW***\] - A fork of Frets on Fire with many added features and capabilities.
 
 # Platformer
+* [Godot Bunner](https://github.com/bobobobo/godot-bunner) - Godot implementation of infinite bunner
+* [Infinite Bunner](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/bunner-master) \[***LMW***\] - Game Infinite Bunner from the book Code The Classics
 * [runfoxrun](https://code.google.com/archive/p/runfoxrun/) \[***A***\] - An attempt to make a complete game for Android based devices within 14 days.
 * [Super Bombinhas](https://github.com/victords/super-bombinhas) \[***LW***\] - A 2D platformer written in Ruby.
 * [Tiny Crate](https://github.com/HarmonyHoney/tiny_crate) \[***LMW***\] - Tiny Crate is a cute little precision platformer with puzzle elements!.
 
 # Puzzle
 * [aaaaxy](https://divverent.github.io/aaaaxy/) \[***ALMW***\] - AAAAXY is a nonlinear 2D puzzle platformer taking place in impossible spaces.
+* [Cavern](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/cavern-master) \[***LMW***\] - Cavern game from the book Code The Classics.
 * [ConnecMan](https://github.com/victords/connecman) \[***LW***\] - A puzzle game about connecting pieces with straight lines.
 * [Enigma](https://www.nongnu.org/enigma/) \[***LMW***\] - Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga.
 * [Pingus](https://pingus.seul.org/) \[***AHLMW \****\] - Pingus is a free Lemmings<sup>tm</sup>-like puzzle game covered under the GNU GPL.
@@ -105,10 +120,13 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [BrogueCE](https://github.com/tmewett/BrogueCE) - \[***ALMW***\]
 * [POWDER](http://www.zincland.com/powder/) \[***LMW \****\]- A Roguelike designed for the Gameboy Advance and Nintendo DS.
 * [/tg/station 13](https://tgstation13.org/) \[***LW***\] - Space Station 13 is a two dimensional, multiplayer, role playing game developed on BYOND.
-* 
+
 # Sandbox
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org) \[***ALMW***\] - Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world.
 * [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN/) \[***ALMW***\] - Cataclysm: Bright Nights, A fork/variant of Cataclysm:DDA by CleverRaven.
+
+# Sport
+* [Soccer](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/soccer-master) - Soccer game from the book Code The Classics.
 
 # Strategy
 * [AnutoTD](https://github.com/mjaun/android-anuto) \[***A***\] - Another ugly tower defense for Android
