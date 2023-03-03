@@ -54,6 +54,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [krassesSpiel](https://github.com/Gh05t-1337/krassesSpiel) \|***A***\] - A little Game where you shoot bullets at squares.
 * [Leblebi Games' Tetris](https://github.com/yesmancan/Tetris) \[***A***\] - Unity with C# 3D Tetris Game Development.
 * [Simple Brick Games](https://github.com/TobiasBielefeld/Simple-Brick-Games) \[***A***\] - Imitates the "9999 in 1" handhelds from the past.
+* [snake game](https://github.com/JustWhit3/snake-game) \[***LMW***\] - A snake game with scores, options, audio and more created using SFML.
 * [Super Retro Mega Wars](https://github.com/retrowars/retrowars) \[***A***\] - Play retro games against each other in any combination in this open source Android multiplayer game.
 * [VGA Golf](https://fallahn.itch.io/vga-golf) \[***LMW***\] - VGA Golf is a local or networked multiplayer golfing sim, modeled on 90s era console and DOS games (hence the term VGA: Video Graphics Array).
 
