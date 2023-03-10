@@ -119,7 +119,8 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 # RPG
 * [BrogueCE](https://github.com/tmewett/BrogueCE) - \[***ALMW***\]
-* [POWDER](http://www.zincland.com/powder/) \[***LMW \****\]- A Roguelike designed for the Gameboy Advance and Nintendo DS.
+* [POWDER](http://www.zincland.com/powder/) \[***LMW***\]- A Roguelike designed for the Gameboy Advance and Nintendo DS.
+* [Endless Sky](https://github.com/endless-sky/endless-sky) \[***LMW***\] - Space exploration, trading, and combat game.
 * [/tg/station 13](https://tgstation13.org/) \[***LW***\] - Space Station 13 is a two dimensional, multiplayer, role playing game developed on BYOND.
 
 # Sandbox
