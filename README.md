@@ -25,7 +25,6 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Action](#action)
 * [Arcade](#arcade)
 * [Card](#card)
-* [FPS](#fps)
 * [Horror](#horror)
 * [Misc](#misc)
 * [MMO](#mmo)
@@ -35,6 +34,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Racing](#racing)
 * [RPG](#rpg)
 * [Sandbox](#sandbox)
+* [Shooter](#shooter)
 * [Simulation](#simulation)
 * [Sport](#sport)
 * [Strategy](#strategy)
@@ -62,16 +62,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 * [Arcmage](https://arcmage.org/) \[ ***\[IRL\]*** \] - A libre card game.
 
-# FPS
-* [AssaultCube](https://assault.cubers.net/) \[***LMW***\] - AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.
-* [Cube](http://cubeengine.com/cube.php) \[***LMW***\] - Cube is an open source multiplayer and singleplayer first person shooter game built on an entirely new and very unconventional engine.
-* [Cube 2: Sauerbraten](http://sauerbraten.org/) \[***LMW***\] - Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.
-* [DOOMRetro](https://github.com/bradharding/doomretro) \[***W***\] - The classic, refined DOOM source port. For Windows PC.
-* [Red Eclipse](https://www.redeclipse.net/) \[***LMW***\] - Free and Open Source game, built on Cube Engine 2 using SDL and OpenGL which allows it to be ported to many platforms.
-* [Rust cycles](https://github.com/rustcycles/rustcycles) - \[***LMW***\] - RustCycles is a third person shooter that's about movement, not aim. You have to be smart and think fast.
-* [Rusty shooter](https://github.com/mrDIMAS/rusty-shooter) \[***LMW***\] - 3d shooter written in Rust using rg3d.
-* [Station Latepus](https://github.com/mrDIMAS/StationIapetus) \[***LMW***\] - 3rd person shooter in the very early development phase.
-* [Tesseract](http://tesseract.gg/) \[***LMW***\] - Tesseract is a first-person shooter game focused on instagib deathmatch and capture-the-flag gameplay as well as cooperative in-game map editing.
+
 
 # Horror
 * [Penumbra Overture](https://github.com/FrictionalGames/PenumbraOverture) \[***LMW***\] - Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
@@ -126,6 +117,17 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 # Sandbox
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org) \[***ALMW***\] - Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world.
 * [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN/) \[***ALMW***\] - Cataclysm: Bright Nights, A fork/variant of Cataclysm:DDA by CleverRaven.
+
+# Shooter
+* [AssaultCube](https://assault.cubers.net/) \[***LMW***\] - AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.
+* [Cube](http://cubeengine.com/cube.php) \[***LMW***\] - Cube is an open source multiplayer and singleplayer first person shooter game built on an entirely new and very unconventional engine.
+* [Cube 2: Sauerbraten](http://sauerbraten.org/) \[***LMW***\] - Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.
+* [DOOMRetro](https://github.com/bradharding/doomretro) \[***W***\] - The classic, refined DOOM source port. For Windows PC.
+* [Red Eclipse](https://www.redeclipse.net/) \[***LMW***\] - Free and Open Source game, built on Cube Engine 2 using SDL and OpenGL which allows it to be ported to many platforms.
+* [Rust cycles](https://github.com/rustcycles/rustcycles) - \[***LMW***\] - RustCycles is a third person shooter that's about movement, not aim. You have to be smart and think fast.
+* [Rusty shooter](https://github.com/mrDIMAS/rusty-shooter) \[***LMW***\] - 3d shooter written in Rust using rg3d.
+* [Station Latepus](https://github.com/mrDIMAS/StationIapetus) \[***LMW***\] - 3rd person shooter in the very early development phase.
+* [Tesseract](http://tesseract.gg/) \[***LMW***\] - Tesseract is a first-person shooter game focused on instagib deathmatch and capture-the-flag gameplay as well as cooperative in-game map editing.
 
 # Sport
 * [Soccer](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/soccer-master) - Soccer game from the book Code The Classics.
