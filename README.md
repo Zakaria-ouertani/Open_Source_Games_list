@@ -62,8 +62,6 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 * [Arcmage](https://arcmage.org/) \[ ***\[IRL\]*** \] - A libre card game.
 
-
-
 # Horror
 * [Penumbra Overture](https://github.com/FrictionalGames/PenumbraOverture) \[***LMW***\] - Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
 
@@ -119,6 +117,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN/) \[***ALMW***\] - Cataclysm: Bright Nights, A fork/variant of Cataclysm:DDA by CleverRaven.
 
 # Shooter
+* [Ast3r0id](https://github.com/velorek1/asteroid) \[***L***\] - Classic Asteroid Game coded with SDL2 in C
 * [AssaultCube](https://assault.cubers.net/) \[***LMW***\] - AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.
 * [Cube](http://cubeengine.com/cube.php) \[***LMW***\] - Cube is an open source multiplayer and singleplayer first person shooter game built on an entirely new and very unconventional engine.
 * [Cube 2: Sauerbraten](http://sauerbraten.org/) \[***LMW***\] - Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.
