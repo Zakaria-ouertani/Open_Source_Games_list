@@ -141,6 +141,7 @@ Sauron-style Lord of Darkness with the goal of conquering the world.
 * [The Battle for Wesnoth](https://www.wesnoth.org/)\[***ALMW***\] - The Battle for Wesnoth is a free and open-source turn-based strategy video game with a high fantasy setting.
 * [TripleA](https://triplea-game.org/)\[***LMW***\] - The World's Foremost Open Source Grand Strategy Game.
 * [Julius](https://github.com/bvschaik/julius/) \[***ALMNSW X***\] - An open source re-implementation of Caesar III. Engine Fully OS but uses the official Caesar III Data.
+* [Zone of Control](https://github.com/ozkriff/zoc) \[***LMW***\] - ⬡ Zone of Control is a hexagonal turn-based strategy game written in Rust. [DISCONTINUED].
 
 # Simulation
 * [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/) \[***ALW***\] - EmptyEpsilon places you in the roles of a spaceship's bridge officers, like those seen in Star Trek. While you can play EmptyEpsilon alone or with friends, the best experience involves 6 players working together on each ship.
