@@ -2,29 +2,33 @@
 You will notice "tags" in front of each title like ***\[W\]*** or ***\[AL\]*** or ***\[ALW\]***.
 Those are the platforms the game is compatible with be it "**official**" or through wine/proton which are like this:
 
-|Letter	|	Platform					|
-|-------|	----------------------- 	|
+|Letter	|	Platform					        |
+|-------|	--------------------------|
 |**A**	|	<ins>**A**</ins>ndroid		|
-|**B**	|	<ins>**B**</ins>rowser		|
+|**B**	|	<ins>**B**</ins>SD		    |
 |**IRL**|	<ins>**Real Life**</ins>	|
-|**H**	|	<ins>**H**</ins>aiku		|
-|**L**	|	<ins>**L**</ins>inux		|
-|**M**	|	<ins>**M**</ins>ac			|
-|**P**	|	<ins>**P**</ins>roton		|
-|**S**	|	P<ins>**S**</ins>			|
+|**H**	|	<ins>**H**</ins>aiku		  |
+|**L**	|	<ins>**L**</ins>inux		  |
+|**M**	|	<ins>**M**</ins>ac			  |
+|**M**	|	<ins>**O**</ins>nline			|
+|**P**	|	<ins>**P**</ins>roton		  |
+|**S**	|	P<ins>**S**</ins>		     	|
 |**N**	|	<ins>**N**</ins>intendo		|
 |**W**	|	<ins>**W**</ins>indows		|
-|**\***	|	Has many other ports		|
-|**X**	|	Not fully open source		|
+|**\***	|	Has many other ports	  	|
+|**X**	|	Not fully open source		  |
 
 ### Notes
+- Tags Only represent platforms that the publisher publishes binaries to, If you don't find a tag you might still be able to  ***(<ins>probably</ins>)*** build it yourself from source.
 - Games that run natively on linux won't have the <ins>**P**</ins>roton tag. (Though all open source games I found so far run natively on linux)
 - Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check it's compatibility.
+- Arcade is there for games i could't decide what genre to put them in.
 
 # Glossary
 * [Action](#action)
 * [Arcade](#arcade)
 * [Card](#card)
+* [Casual](#casual)
 * [Horror](#horror)
 * [Misc](#misc)
 * [MMO](#mmo)
@@ -53,10 +57,15 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Frozen Bubble](http://www.frozen-bubble.org/) \[***ALMW***\] - Colorful 3D rendered penguin animations, 100 levels of 1p game, hours and hours of 2p game, nights and nights of 2p/3p/4p/5p game over LAN or Internet, a level-editor, 3 professional quality digital soundtracks, 15 stereo sound effects, 8 unique graphical transition effects, 8 unique logo eye-candies.
 * [krassesSpiel](https://github.com/Gh05t-1337/krassesSpiel) \|***A***\] - A little Game where you shoot bullets at squares.
 * [Leblebi Games' Tetris](https://github.com/yesmancan/Tetris) \[***A***\] - Unity with C# 3D Tetris Game Development.
+* [Pokete](https://github.com/lxgr-linux/pokete) \[***BLMW***\] - A terminal based Pokemon like game
+* [Pong-command](https://github.com/kurehajime/pong-command) \[***LWM***\] - pong is not ping. pong is CLI game.
 * [Simple Brick Games](https://github.com/TobiasBielefeld/Simple-Brick-Games) \[***A***\] - Imitates the "9999 in 1" handhelds from the past.
 * [snake game](https://github.com/JustWhit3/snake-game) \[***LMW***\] - A snake game with scores, options, audio and more created using SFML.
 * [Super Retro Mega Wars](https://github.com/retrowars/retrowars) \[***A***\] - Play retro games against each other in any combination in this open source Android multiplayer game.
 * [VGA Golf](https://fallahn.itch.io/vga-golf) \[***LMW***\] - VGA Golf is a local or networked multiplayer golfing sim, modeled on 90s era console and DOS games (hence the term VGA: Video Graphics Array).
+
+# Casual
+* [Penney](https://github.com/sepandhaghighi/penney) \[***BLMW***\] - [Penney's Game](https://www.wikiwand.com/en/Penney's_game)
 
 # Card
 
@@ -66,7 +75,11 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Penumbra Overture](https://github.com/FrictionalGames/PenumbraOverture) \[***LMW***\] - Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
 
 # Misc
+* [cli-games](https://github.com/salif/cli-games) \[***BLWM \****\] - Games in the terminal
 * [Rust game ports](https://github.com/rust-gamedev/rust-game-ports) - Official host of games ported using Rust game libraries.
+* [Typon](https://github.com/ihsuy/Typon) \[***LMW***\] - A multi-featured typing practice tool that runs on a terminal emulator which can turn any text file into a typing game.
+* [Void Space](https://github.com/ChrisPenner/void-space) \[\] - Well-Typed Typing Tutor where you Type Types... in space.
+* [wscli](https://github.com/gideonshaked/wscli) \[\] - word search CLI 🆎
 
 # MMO
 * [Daimonin](https://www.daimonin.org/) \[***LW***\] - Daimonin is an open source project and a game engine.
@@ -94,6 +107,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Cavern](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/cavern-master) \[***LMW***\] - Cavern game from the book Code The Classics.
 * [ConnecMan](https://github.com/victords/connecman) \[***LW***\] - A puzzle game about connecting pieces with straight lines.
 * [Enigma](https://www.nongnu.org/enigma/) \[***LMW***\] - Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga.
+* [Guess that lang](https://github.com/Lioness100/guess-that-lang) \[***LWM***\] - CLI game to see how fast you can guess the language of a code block!
 * [Pingus](https://pingus.seul.org/) \[***AHLMW \****\] - Pingus is a free Lemmings<sup>tm</sup>-like puzzle game covered under the GNU GPL.
 * [Pipeanic](http://www.users.waitrose.com/~thunor/pipepanic/) \[***L \****\] - Pipepanic is a pipe connecting game using libSDL. Connect as many different shaped pipes together as possible within the time given. Supports a lot of obscure platforms.
 * [Spheres](https://github.com/victords/spheres) \[***LW***\] - A simple match-3 game.
@@ -111,6 +125,8 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [POWDER](http://www.zincland.com/powder/) \[***LMW***\]- A Roguelike designed for the Gameboy Advance and Nintendo DS.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) \[***LMW***\] - Space exploration, trading, and combat game.
 * [/tg/station 13](https://tgstation13.org/) \[***LW***\] - Space Station 13 is a two dimensional, multiplayer, role playing game developed on BYOND.
+* [Trash the Dragon](https://github.com/Ors1mer/Trash_The_Dragon) -  \[\] An old-school CLI game written in Free Pascal.
+* [pglowrpg](https://github.com/roalyr/pglowrpg) - \[\] - Procedurally Generated Living Open World RPG.
 
 # Sandbox
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org) \[***ALMW***\] - Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world.
@@ -134,10 +150,10 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 # Strategy
 * [AnutoTD](https://github.com/mjaun/android-anuto) \[***A***\] - Another ugly tower defense for Android
 * [Augustus](https://github.com/Keriew/augustus) \[***ALMNSW X***\] - Julius Fork with many enhancements.
-* [Malefactor](https://adeptus7.itch.io/dark-reign) \[***B***\] - Malefacotr is a strategy text game in which the player takes on the role of a
+* [Malefactor](https://adeptus7.itch.io/dark-reign) \[***O***\] - Malefacotr is a strategy text game in which the player takes on the role of a
 Sauron-style Lord of Darkness with the goal of conquering the world.
 * [Mindustry](https://mindustrygame.github.io/) \[***ALMW***\] - A sandbox tower-defense game.
-* [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - \[***ABLMW***\]
+* [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - \[***ALMOW***\]
 * [The Battle for Wesnoth](https://www.wesnoth.org/)\[***ALMW***\] - The Battle for Wesnoth is a free and open-source turn-based strategy video game with a high fantasy setting.
 * [TripleA](https://triplea-game.org/)\[***LMW***\] - The World's Foremost Open Source Grand Strategy Game.
 * [Julius](https://github.com/bvschaik/julius/) \[***ALMNSW X***\] - An open source re-implementation of Caesar III. Engine Fully OS but uses the official Caesar III Data.
