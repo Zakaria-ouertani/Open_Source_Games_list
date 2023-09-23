@@ -164,4 +164,4 @@ Sauron-style Lord of Darkness with the goal of conquering the world.
 * [OpenTTD](https://www.openttd.org/about) \[***ALMW***\] - OpenTTD is an open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.
 * [Thrive](https://revolutionarygamesstudio.com/) <sup>[1](https://github.com/Revolutionary-Games)</sup> \[***W***\] - Thrive is a free, open-source game about the evolution of life.
 
-* [YSFligtht](https://github.com/captainys/YSFLIGHT) [<sup>1</sup>](http://ysflight.in.coocan.jp/) [<sup>2</sup>](https://ysflight.org/) \[***LMW X***\] - According to dev open source is less future proof than closed source ¯\_(ツ)_/¯.
+* [YSFligtht](https://github.com/captainys/YSFLIGHT) [<sup>1</sup>](http://ysflight.in.coocan.jp/) [<sup>2</sup>](https://ysflight.org/) \[***LMW X***\] - According to dev open source is less future proof than closed source.
