@@ -10,7 +10,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 |**H**	|	<ins>**H**</ins>aiku		  |
 |**L**	|	<ins>**L**</ins>inux		  |
 |**M**	|	<ins>**M**</ins>ac			  |
-|**M**	|	<ins>**O**</ins>nline			|
+|**O**	|	<ins>**O**</ins>nline			|
 |**P**	|	<ins>**P**</ins>roton		  |
 |**S**	|	P<ins>**S**</ins>		     	|
 |**N**	|	<ins>**N**</ins>intendo		|
