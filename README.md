@@ -20,7 +20,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 
 ### Notes
 - Tags Only represent platforms that the publisher publishes binaries to, If you don't find a tag you might still be able to  ***(<ins>probably</ins>)*** build it yourself from source.
-- Games that run natively on linux won't have the <ins>**P**</ins>roton tag. (Though all open source games I found so far run natively on linux)
+- Games that run natively on linux won't have the <ins>**P**</ins>roton tag. (Though most open source games I found so far run natively on linux)
 - Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check it's compatibility.
 - Arcade is there for games i could't decide what genre to put them in.
 
