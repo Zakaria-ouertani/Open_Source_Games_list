@@ -87,7 +87,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Open Runescape Classic](https://gitlab.com/open-runescape-classic) \[***ALMW***\] - Open Source Runsescape.
 * [PlaneShift Legacy](https://www.planeshift.it/)\[***LMW X***\] - PlaneShift Legacy is Open Source for the client and server code, this version is still playable but devs are no longer expanding on it.
 * [Ryzom](https://ryzom.com/) \[***LMW***\] - Ryzom is one of only a few commercial-grade MMORPGs that are fully open source: client, server, tools, and media.
-* [Veloren](veloren.net) \[***LMW***\] - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
+* [Veloren](https://veloren.net/) \[***LMW***\] - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 
 # Music
 * [StepMania](https://www.stepmania.com/) \[***LMW***\] - StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controller.
