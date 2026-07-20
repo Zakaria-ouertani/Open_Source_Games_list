@@ -1,6 +1,6 @@
 # Open source games
 You will notice "tags" in front of each title like ***\[W\]*** or ***\[AL\]*** or ***\[ALW\]***.
-Those are the platforms the game is compatible with be it "**official**" or through wine/proton which are like this:
+Those are the platforms the game is compatible with be it "**official**" or through wine/proton.
 
 |Letter	|	Platform					        |
 |-------|	--------------------------|
@@ -164,4 +164,4 @@ Sauron-style Lord of Darkness with the goal of conquering the world.
 * [OpenTTD](https://www.openttd.org/about) \[***ALMW***\] - OpenTTD is an open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.
 * [Thrive](https://revolutionarygamesstudio.com/) <sup>[1](https://github.com/Revolutionary-Games)</sup> \[***W***\] - Thrive is a free, open-source game about the evolution of life.
 
-* [YSFligtht](https://github.com/captainys/YSFLIGHT) [<sup>1</sup>](http://ysflight.in.coocan.jp/) [<sup>2</sup>](https://ysflight.org/) \[***LMW X***\] - According to dev open source is less future proof than closed source.
+* [YSFligtht](https://github.com/YSCEDC/YSCE) \[***LMW X***\]<sup>[1](https://forum.ysfhq.com/index.php)</sup> <sup>[2](http://ysflight.in.coocan.jp/ysflight/ysflight/e.html)</sup> - Community Edition fork of YSFlight
