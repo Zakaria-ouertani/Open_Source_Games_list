@@ -1,3 +1,6 @@
+
+</think>
+
 # Open source games
 You will notice "tags" in front of each title like ***\[W\]*** or ***\[AL\]*** or ***\[ALW\]***.
 Those are the platforms the game is compatible with be it "**official**" or through wine/proton.
@@ -21,8 +24,8 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 ### Notes
 - Tags Only represent platforms that the publisher publishes binaries to, If you don't find a tag you might still be able to  ***(<ins>probably</ins>)*** build it yourself from source.
 - Games that run natively on linux won't have the <ins>**P**</ins>roton tag. (Though most open source games I found so far run natively on linux)
-- Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check it's compatibility.
-- Arcade is there for games i could't decide what genre to put them in.
+- Games with <ins>**P**</ins>roton support will have a link to ProtonDB so you can check its compatibility.
+- Arcade is there for games I couldn't decide what genre to put them in.
 
 # Glossary
 * [Action](#action)
@@ -55,7 +58,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Dodge](https://github.com/dozingcat/dodge-android) - \[***A***\] - Guide a ball to safety avoiding swarms of enemies
 * [fooBillard](http://foobillard.sourceforge.net/) \[***ALW***\] -  A free (libre; licensed under GPL2) OpenGL billiard game for Linux by Florian Berger.
 * [Frozen Bubble](http://www.frozen-bubble.org/) \[***ALMW***\] - Colorful 3D rendered penguin animations, 100 levels of 1p game, hours and hours of 2p game, nights and nights of 2p/3p/4p/5p game over LAN or Internet, a level-editor, 3 professional quality digital soundtracks, 15 stereo sound effects, 8 unique graphical transition effects, 8 unique logo eye-candies.
-* [krassesSpiel](https://github.com/Gh05t-1337/krassesSpiel) \|***A***\] - A little Game where you shoot bullets at squares.
+* [krassesSpiel](https://github.com/Gh05t-1337/krassesSpiel) \[***A***\] - A little Game where you shoot bullets at squares.
 * [Leblebi Games' Tetris](https://github.com/yesmancan/Tetris) \[***A***\] - Unity with C# 3D Tetris Game Development.
 * [Pokete](https://github.com/lxgr-linux/pokete) \[***BLMW***\] - A terminal based Pokemon like game
 * [Pong-command](https://github.com/kurehajime/pong-command) \[***LWM***\] - pong is not ping. pong is CLI game.
