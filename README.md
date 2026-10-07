@@ -44,6 +44,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Shooter](#shooter)
 * [Simulation](#simulation)
 * [Sport](#sport)
+* [Stealth](#stealth)
 * [Strategy](#strategy)
 
 # Action
@@ -93,16 +94,21 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Veloren](https://veloren.net/) \[***LMW***\] - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 
 # Music
+* [OSU!](https://github.com/ppy/osu) \[***ALMW***\] - osu! is an open source rhythm game.
 * [StepMania](https://www.stepmania.com/) \[***LMW***\] - StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controller.
 * [Performous](https://github.com/performous/performous) \[***LMW***\] - An open-source music and rhythm game.
 * [Frets on Fire](http://fretsonfire.sourceforge.net/) \[***LMW***\] - Frets on Fire is a game of musical skill and fast fingers. The aim of the game is to play guitar with the keyboard as accurately as possible.
 * [Frets on Fire X](https://github.com/fofix/fofix) \[***LMW***\] - A fork of Frets on Fire with many added features and capabilities.
+* [EtternaOnline](https://github.com/etternagame/etterna) \[***LMW***\] - Advanced cross-platform rhythm game focused on keyboard play
+* [Quaver](https://github.com/Quaver/Quaver) \[***LMW***\] - TCommunity-driven, and open-source competitive rhythm game.
 
 # Platformer
 * [Godot Bunner](https://github.com/bobobobo/godot-bunner) - Godot implementation of infinite bunner
 * [Infinite Bunner](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/bunner-master) \[***LMW***\] - Game Infinite Bunner from the book Code The Classics
 * [runfoxrun](https://code.google.com/archive/p/runfoxrun/) \[***A***\] - An attempt to make a complete game for Android based devices within 14 days.
 * [Super Bombinhas](https://github.com/victords/super-bombinhas) \[***LW***\] - A 2D platformer written in Ruby.
+* [SuperTux](https://www.supertux.org/) \[***LMW***\] - SuperTux is an open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games.
+* [Frogatto](https://frogatto.com/) \[***MPW***\] - Frogatto & Friends is an action-adventure platformer game, starring a certain quixotic frog.
 * [Tiny Crate](https://github.com/HarmonyHoney/tiny_crate) \[***LMW***\] - Tiny Crate is a cute little precision platformer with puzzle elements!.
 
 # Puzzle
@@ -115,6 +121,7 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Pipeanic](http://www.users.waitrose.com/~thunor/pipepanic/) \[***L \****\] - Pipepanic is a pipe connecting game using libSDL. Connect as many different shaped pipes together as possible within the time given. Supports a lot of obscure platforms.
 * [Spheres](https://github.com/victords/spheres) \[***LW***\] - A simple match-3 game.
 * [SokoAdventure](https://github.com/victords/sokoadventure) \[***LW***\] - A 2D puzzle game inspired by Sokoban.
+* [ssuika](https://codeberg.org/nzuum/ssuika)
 
 # Racing 
 * [Armagetron ADVANCED](http://www.armagetronad.org/) \[***LMW***\] - "A Tron clone in 3D."
@@ -130,10 +137,14 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [/tg/station 13](https://tgstation13.org/) \[***LW***\] - Space Station 13 is a two dimensional, multiplayer, role playing game developed on BYOND.
 * [Trash the Dragon](https://github.com/Ors1mer/Trash_The_Dragon) -  \[\] An old-school CLI game written in Free Pascal.
 * [pglowrpg](https://github.com/roalyr/pglowrpg) - \[\] - Procedurally Generated Living Open World RPG.
+* [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) \[***ALW***\]- Shattered Pixel Dungeon is a traditional roguelike dungeon crawler RPG.
 
 # Sandbox
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org) \[***ALMW***\] - Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world.
 * [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN/) \[***ALMW***\] - Cataclysm: Bright Nights, A fork/variant of Cataclysm:DDA by CleverRaven.
+* [OpenRCT2](https://openrct2.io/) \[***ALMW***\] - Open source re-implementation of RollerCoaster Tycoon 2.
+* [Cubyz](https://pixelguys.github.io/Cubyz-Website/) \[***LW***\] - Cubyz is a 3D voxel sandbox game (inspired by Minecraft).
+* [Luanti](https://www.luanti.org/en/) \[***ALMW***\] - An open-source voxel game creation platform
 
 # Shooter
 * [Ast3r0id](https://github.com/velorek1/asteroid) \[***L***\] - Classic Asteroid Game coded with SDL2 in C
@@ -141,25 +152,36 @@ Those are the platforms the game is compatible with be it "**official**" or thro
 * [Cube](http://cubeengine.com/cube.php) \[***LMW***\] - Cube is an open source multiplayer and singleplayer first person shooter game built on an entirely new and very unconventional engine.
 * [Cube 2: Sauerbraten](http://sauerbraten.org/) \[***LMW***\] - Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS.
 * [DOOMRetro](https://github.com/bradharding/doomretro) \[***W***\] - The classic, refined DOOM source port. For Windows PC.
+* [GZDoom](https://github.com/ZDoom/gzdoom) \[***LMW***\] - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities.
 * [Red Eclipse](https://www.redeclipse.net/) \[***LMW***\] - Free and Open Source game, built on Cube Engine 2 using SDL and OpenGL which allows it to be ported to many platforms.
-* [Rust cycles](https://github.com/rustcycles/rustcycles) - \[***LMW***\] - RustCycles is a third person shooter that's about movement, not aim. You have to be smart and think fast.
+* [Rust cycles](https://github.com/rustcycles/rustcycles) \[***LMW***\] - RustCycles is a third person shooter that's about movement, not aim. You have to be smart and think fast.
 * [Rusty shooter](https://github.com/mrDIMAS/rusty-shooter) \[***LMW***\] - 3d shooter written in Rust using rg3d.
 * [Station Latepus](https://github.com/mrDIMAS/StationIapetus) \[***LMW***\] - 3rd person shooter in the very early development phase.
+* [Teeworlds](https://github.com/teeworlds/teeworlds) \[***LMW***\] - A retro multiplayer shooter
 * [Tesseract](http://tesseract.gg/) \[***LMW***\] - Tesseract is a first-person shooter game focused on instagib deathmatch and capture-the-flag gameplay as well as cooperative in-game map editing.
+* [Xonotic](https://xonotic.org/) \[***LMW***\] - Xonotic is an arena-style first person shooter with crisp movement and a wide array of weapons
 
 # Sport
 * [Soccer](https://github.com/Wireframe-Magazine/Code-the-Classics/tree/master/soccer-master) - Soccer game from the book Code The Classics.
 
+# Stealth
+* [The Dark Mod](https://www.thedarkmod.com/) \[***LMW***\] - The Dark Mod is a free and open-source software first-person stealth video game, inspired by the Thief series.
+
 # Strategy
-* [AnutoTD](https://github.com/mjaun/android-anuto) \[***A***\] - Another ugly tower defense for Android
+* [0AD](https://gitea.wildfiregames.com/0ad/0ad) \[***LMW***\] - 0 A.D. is a free, open-source, historical Real Time Strategy (RTS) game.
+* [AnutoTD](https://github.com/mjaun/android-anuto) \[***A***\] - Another ugly tower defense for Android.
 * [Augustus](https://github.com/Keriew/augustus) \[***ALMNSW X***\] - Julius Fork with many enhancements.
+* [Beyond All Reason]([strat](https://github.com/beyond-all-reason/Beyond-All-Reason)) \[***LW***\] - Beyond All Reason is a free, open-source science fiction real-time strategy video game.
+* [Freeciv](https://github.com/freeciv/freeciv) \[***LW***\] - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
 * [Malefactor](https://adeptus7.itch.io/dark-reign) \[***O***\] - Malefacotr is a strategy text game in which the player takes on the role of a
 Sauron-style Lord of Darkness with the goal of conquering the world.
 * [Mindustry](https://mindustrygame.github.io/) \[***ALMW***\] - A sandbox tower-defense game.
+* [OpenRA](https://github.com/OpenRA/OpenRA) \[***BLMW***\] - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - \[***ALMOW***\]
 * [The Battle for Wesnoth](https://www.wesnoth.org/)\[***ALMW***\] - The Battle for Wesnoth is a free and open-source turn-based strategy video game with a high fantasy setting.
 * [TripleA](https://triplea-game.org/)\[***LMW***\] - The World's Foremost Open Source Grand Strategy Game.
 * [Julius](https://github.com/bvschaik/julius/) \[***ALMNSW X***\] - An open source re-implementation of Caesar III. Engine Fully OS but uses the official Caesar III Data.
+* [Unciv](https://github.com/yairm210/Unciv) \[***LW***\] - Open-source 2D remake of Civ V
 * [Zone of Control](https://github.com/ozkriff/zoc) \[***LMW***\] - ⬡ Zone of Control is a hexagonal turn-based strategy game written in Rust. [DISCONTINUED].
 
 # Simulation
